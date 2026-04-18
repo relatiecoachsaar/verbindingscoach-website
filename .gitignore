@@ -1,0 +1,13 @@
+.kiro
+.idea/
+
+source/
+.DS_Store
+
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.bundle/
+Gemfile.lock
